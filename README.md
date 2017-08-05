@@ -1,24 +1,28 @@
-![Logo](./images/logo.sample.png)
+[![npm info](https://nodei.co/npm/loopback-remote-mixin.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/package/loopback-ibmresearch-mixin)
+
+[![npm](https://img.shields.io/npm/v/loopback-remote-mixin.svg)]()
+[![dependencies](https://img.shields.io/david/rikantro/loopback-remote-mixin.svg)]()
+[![devDependencies](https://img.shields.io/david/dev/rikantro/loopback-remote-mixin.svg)]()
 
 # loopback-remote-mixin
 > Mixin for disable remote methods &amp; add custom description to built-in methods
 
-## Installing / Getting started
+### Installing / Getting started
 
-You can put me in your package.json dependencies. The npm tool can do this for you, from the command line:.
+You can put me in your package.json dependencies. The npm tool can do this for you, from the command line:
 
 ```shell
-npm install
+npm install loopback-remote-mixin
 ```
 
 ### Prerequisites
 [Loopback](https://loopback.io) >= 3.x
 
-## Testing
+### Testing
 ```shell
 npm test
 ```
 
-## Licensing
+### Licensing
 
-MIT License
+MIT © Ricardo Jiménez Hernández
