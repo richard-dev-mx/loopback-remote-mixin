@@ -1,0 +1,30 @@
+{
+  "name": "loopback-remote-mixin",
+  "version": "1.0.0",
+  "description": "Mixin for disable remote methods & add custom description to built-in methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback",
+    "strongloop",
+    "mixin",
+    "disable",
+    "description"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikantro/loopback-remote-mixin.git"
+  },
+  "author": "Ricardo Jiménez Hernándezn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rikantro/loopback-remote-mixin/issues"
+  },
+  "homepage": "https://github.com/rikantro/loopback-remote-mixin#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
